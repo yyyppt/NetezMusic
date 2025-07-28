@@ -14,11 +14,17 @@
 @implementation AppDelegate
 
 
+
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-    // Override point for customization after application launch.
+
+    if (![[NSUserDefaults standardUserDefaults] boolForKey:@"HasLaunchedBefore"]) {
+        [[NSUserDefaults standardUserDefaults] setBool:NO forKey:@"DarkModeEnabled"];
+        [[NSUserDefaults standardUserDefaults] setBool:YES forKey:@"HasLaunchedBefore"];
+        [[NSUserDefaults standardUserDefaults] synchronize];
+    }
+
     return YES;
 }
-
 
 #pragma mark - UISceneSession lifecycle
 

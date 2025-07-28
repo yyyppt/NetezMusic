@@ -1,5 +1,5 @@
 //
-//  SceneDelegate.h
+//  SecondVC.h
 //  网易云音乐
 //
 //  Created by yyyyy on 2025/7/15.
@@ -7,9 +7,12 @@
 
 #import <UIKit/UIKit.h>
 
-@interface SceneDelegate : UIResponder <UIWindowSceneDelegate>
+NS_ASSUME_NONNULL_BEGIN
 
-@property (strong, nonatomic) UIWindow * window;
+@interface SecondVC : UIViewController
+
 @property (nonatomic, assign) BOOL isDarkMode;
+
 @end
 
+NS_ASSUME_NONNULL_END

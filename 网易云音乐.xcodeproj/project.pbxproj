@@ -6,6 +6,32 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		4B63F55E2E27905E0033116D /* 搜索白.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B63F55D2E27905E0033116D /* 搜索白.png */; };
+		4B63F5642E27955E0033116D /* 菜单白.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B63F5632E27955E0033116D /* 菜单白.png */; };
+		4B63F5682E2795E80033116D /* 三点白.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B63F5672E2795E70033116D /* 三点白.png */; };
+		4B63F7182E2A41D70033116D /* 开始播放.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B63F7172E2A41D70033116D /* 开始播放.png */; };
+		4B63F7192E2A41D70033116D /* 播放.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B63F7162E2A41D70033116D /* 播放.png */; };
+		4BBAEF322E25F8FA0038485D /* 笔记.png in Resources */ = {isa = PBXBuildFile; fileRef = 4BBAEF2D2E25F8FA0038485D /* 笔记.png */; };
+		4BBAEF332E25F8FA0038485D /* 无限.png in Resources */ = {isa = PBXBuildFile; fileRef = 4BBAEF302E25F8FA0038485D /* 无限.png */; };
+		4BBAEF342E25F8FA0038485D /* 推荐.png in Resources */ = {isa = PBXBuildFile; fileRef = 4BBAEF2E2E25F8FA0038485D /* 推荐.png */; };
+		4BBAEF362E25F93C0038485D /* 我的.png in Resources */ = {isa = PBXBuildFile; fileRef = 4BBAEF352E25F93C0038485D /* 我的.png */; };
+		4BBAEF632E2626CD0038485D /* 菜单黑.png in Resources */ = {isa = PBXBuildFile; fileRef = 4BBAEF622E2626CD0038485D /* 菜单黑.png */; };
+		4BBAEF652E262C250038485D /* 网易云.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4BBAEF642E262C250038485D /* 网易云.jpg */; };
+		4BBAEF932E2632040038485D /* 听歌识曲.png in Resources */ = {isa = PBXBuildFile; fileRef = 4BBAEF922E2632040038485D /* 听歌识曲.png */; };
+		4BBAEF9C2E2644670038485D /* firimage5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4BBAEF9B2E2644670038485D /* firimage5.jpg */; };
+		4BBAEF9D2E2644670038485D /* firimage3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4BBAEF992E2644670038485D /* firimage3.jpg */; };
+		4BBAEF9E2E2644670038485D /* firimage4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4BBAEF9A2E2644670038485D /* firimage4.jpg */; };
+		4BBAEF9F2E2644670038485D /* firimage1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4BBAEF972E2644670038485D /* firimage1.jpg */; };
+		4BBAEFA02E2644670038485D /* firimage2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4BBAEF982E2644670038485D /* firimage2.jpg */; };
+		4BBAEFA62E2658330038485D /* secimage4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4BBAEFA42E2658330038485D /* secimage4.jpg */; };
+		4BBAEFA72E2658330038485D /* secimage2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4BBAEFA22E2658330038485D /* secimage2.jpg */; };
+		4BBAEFA82E2658330038485D /* secimage5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4BBAEFA52E2658330038485D /* secimage5.jpg */; };
+		4BBAEFA92E2658330038485D /* secimage1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4BBAEFA12E2658330038485D /* secimage1.jpg */; };
+		4BBAEFAA2E2658330038485D /* secimage3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4BBAEFA32E2658330038485D /* secimage3.jpg */; };
+		4BBAEFAC2E26583A0038485D /* secimage6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4BBAEFAB2E26583A0038485D /* secimage6.jpg */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		4BBAEEBC2E25E1650038485D /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -24,9 +50,32 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4B63F55D2E27905E0033116D /* 搜索白.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "搜索白.png"; sourceTree = "<group>"; };
+		4B63F5632E27955E0033116D /* 菜单白.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "菜单白.png"; sourceTree = "<group>"; };
+		4B63F5672E2795E70033116D /* 三点白.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "三点白.png"; sourceTree = "<group>"; };
+		4B63F7162E2A41D70033116D /* 播放.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "播放.png"; sourceTree = "<group>"; };
+		4B63F7172E2A41D70033116D /* 开始播放.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "开始播放.png"; sourceTree = "<group>"; };
 		4BBAEEA02E25E1630038485D /* 网易云音乐.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "网易云音乐.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4BBAEEBB2E25E1650038485D /* 网易云音乐Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "网易云音乐Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4BBAEEC52E25E1650038485D /* 网易云音乐UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "网易云音乐UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4BBAEF2D2E25F8FA0038485D /* 笔记.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "笔记.png"; sourceTree = "<group>"; };
+		4BBAEF2E2E25F8FA0038485D /* 推荐.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "推荐.png"; sourceTree = "<group>"; };
+		4BBAEF302E25F8FA0038485D /* 无限.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "无限.png"; sourceTree = "<group>"; };
+		4BBAEF352E25F93C0038485D /* 我的.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "我的.png"; sourceTree = "<group>"; };
+		4BBAEF622E2626CD0038485D /* 菜单黑.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "菜单黑.png"; sourceTree = "<group>"; };
+		4BBAEF642E262C250038485D /* 网易云.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "网易云.jpg"; sourceTree = "<group>"; };
+		4BBAEF922E2632040038485D /* 听歌识曲.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "听歌识曲.png"; sourceTree = "<group>"; };
+		4BBAEF972E2644670038485D /* firimage1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = firimage1.jpg; sourceTree = "<group>"; };
+		4BBAEF982E2644670038485D /* firimage2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = firimage2.jpg; sourceTree = "<group>"; };
+		4BBAEF992E2644670038485D /* firimage3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = firimage3.jpg; sourceTree = "<group>"; };
+		4BBAEF9A2E2644670038485D /* firimage4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = firimage4.jpg; sourceTree = "<group>"; };
+		4BBAEF9B2E2644670038485D /* firimage5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = firimage5.jpg; sourceTree = "<group>"; };
+		4BBAEFA12E2658330038485D /* secimage1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = secimage1.jpg; sourceTree = "<group>"; };
+		4BBAEFA22E2658330038485D /* secimage2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = secimage2.jpg; sourceTree = "<group>"; };
+		4BBAEFA32E2658330038485D /* secimage3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = secimage3.jpg; sourceTree = "<group>"; };
+		4BBAEFA42E2658330038485D /* secimage4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = secimage4.jpg; sourceTree = "<group>"; };
+		4BBAEFA52E2658330038485D /* secimage5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = secimage5.jpg; sourceTree = "<group>"; };
+		4BBAEFAB2E26583A0038485D /* secimage6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = secimage6.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -92,6 +141,29 @@
 				4BBAEEBE2E25E1650038485D /* 网易云音乐Tests */,
 				4BBAEEC82E25E1650038485D /* 网易云音乐UITests */,
 				4BBAEEA12E25E1630038485D /* Products */,
+				4BBAEF2D2E25F8FA0038485D /* 笔记.png */,
+				4BBAEF2E2E25F8FA0038485D /* 推荐.png */,
+				4BBAEF302E25F8FA0038485D /* 无限.png */,
+				4BBAEF352E25F93C0038485D /* 我的.png */,
+				4BBAEF622E2626CD0038485D /* 菜单黑.png */,
+				4B63F7162E2A41D70033116D /* 播放.png */,
+				4B63F7172E2A41D70033116D /* 开始播放.png */,
+				4B63F5632E27955E0033116D /* 菜单白.png */,
+				4B63F5672E2795E70033116D /* 三点白.png */,
+				4BBAEF642E262C250038485D /* 网易云.jpg */,
+				4B63F55D2E27905E0033116D /* 搜索白.png */,
+				4BBAEF922E2632040038485D /* 听歌识曲.png */,
+				4BBAEF972E2644670038485D /* firimage1.jpg */,
+				4BBAEF982E2644670038485D /* firimage2.jpg */,
+				4BBAEF992E2644670038485D /* firimage3.jpg */,
+				4BBAEF9A2E2644670038485D /* firimage4.jpg */,
+				4BBAEF9B2E2644670038485D /* firimage5.jpg */,
+				4BBAEFA12E2658330038485D /* secimage1.jpg */,
+				4BBAEFA22E2658330038485D /* secimage2.jpg */,
+				4BBAEFA32E2658330038485D /* secimage3.jpg */,
+				4BBAEFA42E2658330038485D /* secimage4.jpg */,
+				4BBAEFA52E2658330038485D /* secimage5.jpg */,
+				4BBAEFAB2E26583A0038485D /* secimage6.jpg */,
 			);
 			sourceTree = "<group>";
 		};
@@ -224,6 +296,29 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4B63F5642E27955E0033116D /* 菜单白.png in Resources */,
+				4BBAEFA62E2658330038485D /* secimage4.jpg in Resources */,
+				4BBAEFA72E2658330038485D /* secimage2.jpg in Resources */,
+				4BBAEFA82E2658330038485D /* secimage5.jpg in Resources */,
+				4BBAEFA92E2658330038485D /* secimage1.jpg in Resources */,
+				4BBAEFAA2E2658330038485D /* secimage3.jpg in Resources */,
+				4BBAEF932E2632040038485D /* 听歌识曲.png in Resources */,
+				4BBAEF322E25F8FA0038485D /* 笔记.png in Resources */,
+				4BBAEF9C2E2644670038485D /* firimage5.jpg in Resources */,
+				4BBAEF9D2E2644670038485D /* firimage3.jpg in Resources */,
+				4BBAEF9E2E2644670038485D /* firimage4.jpg in Resources */,
+				4BBAEF9F2E2644670038485D /* firimage1.jpg in Resources */,
+				4BBAEFA02E2644670038485D /* firimage2.jpg in Resources */,
+				4BBAEF632E2626CD0038485D /* 菜单黑.png in Resources */,
+				4B63F55E2E27905E0033116D /* 搜索白.png in Resources */,
+				4BBAEF652E262C250038485D /* 网易云.jpg in Resources */,
+				4BBAEF332E25F8FA0038485D /* 无限.png in Resources */,
+				4BBAEF342E25F8FA0038485D /* 推荐.png in Resources */,
+				4B63F5682E2795E80033116D /* 三点白.png in Resources */,
+				4BBAEFAC2E26583A0038485D /* secimage6.jpg in Resources */,
+				4B63F7182E2A41D70033116D /* 开始播放.png in Resources */,
+				4B63F7192E2A41D70033116D /* 播放.png in Resources */,
+				4BBAEF362E25F93C0038485D /* 我的.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
